@@ -62,7 +62,8 @@ top: 50%;
 left: 25%;
 }
 .navBtnRight{
-position: relative;
-top: 50%;
-right: 50%;
+    position: relative;
+    top: 50%;
+    right: 25%;
+    float: right;
 }
